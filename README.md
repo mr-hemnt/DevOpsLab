@@ -1,3 +1,5 @@
-# Intentional Merge Conflict Demo
+# DevOps Lab Q1
 
-This README line will be edited differently in two branches: "Combined: Feature A + Feature B"
+This line is edited by FEATURE A.
+
+This repository is for my Cloud & DevOps lab assignment Question 1.
